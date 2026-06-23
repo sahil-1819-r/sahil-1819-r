@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Pathan</h1>
-<h3 align="center">B.Tech CSE Student | Python Developer | AI Enthusiast</h3>
+<h3 align="center">B.Tech CSE Student  | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=B.Tech+CSE+Student;Python+Developer;Streamlit+Developer;AI+Powered+Project+Builder;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=B.Tech+CSE+Student;AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,6 @@
 
 🌱 Currently learning:
 - Python Development
-- Streamlit
 - AI Tools
 - Git & GitHub
 - Web Technologies
@@ -24,7 +23,6 @@
 - Software Development
 - AI Applications
 - Open Source Contributions
-- Game Design & Interactive Experiences
 
 ---
 
@@ -48,54 +46,26 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 ---
 
 ## 🌟 Featured Project
+📄 DocuConvert
 
-### 📄 DocuConvert – AI Assisted Document Converter & OCR Platform
+AI-powered document converter and OCR platform built using Python & Streamlit.
 
-A modern document conversion platform built using Python and Streamlit.
+Tech: Python • Streamlit • PyTesseract • Pillow • PDF2DOCX
 
-### Features
+## ## 🏆 Achievements & Community
 
-✅ Image to PDF
-
-✅ PDF to Image
-
-✅ OCR Text Extraction
-
-✅ PDF to DOCX Conversion
-
-✅ Modern Dashboard UI
-
-✅ Cross Platform Support
-
-### Tech Used
-
-- Python
-- Streamlit
-- Pillow
-- PyTesseract
-- PDF2DOCX
-- AI Assisted UI Development
-
----
-
-## 🏆 Leadership & Community
-
-🔹 Google Student Ambassador Program Participant
-
-🔹 Core Team Member – Google Developer Groups (GDG)
-
-🔹 Content Creation Team
-
-🔹 Technical Event Management
-
-🔹 Community Building & Student Engagement
-
+- 🥈 Second Runner-Up — Microsoft Student Learn Chapter × Vibeathon (2025)
+- ⭐ Content Creation Team Member — Google Developer Group (GDG)
+- 💻 Participated in Multiple Hackathons, and Technical Competitions
+- 🎯 Actively participate in college technical, cultural, and community events
+- 🌐 Open Source Contributor
 ---
 
 ## 📈 GitHub Statistics

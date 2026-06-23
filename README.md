@@ -57,7 +57,14 @@
 
 AI-powered document converter and OCR platform built using Python & Streamlit.
 
+🔗 Live Demo: https://doc-converter.streamlit.app
+
 Tech: Python • Streamlit • PyTesseract • Pillow • PDF2DOCX
+
+
+
+
+---
 
 ## ## 🏆 Achievements & Community
 
